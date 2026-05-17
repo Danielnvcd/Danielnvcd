@@ -29,7 +29,7 @@ También trabajo con:
 - seguridad y autenticación
 - despliegue y arquitectura backend
 
-Tengo experiencia administrando y montando servidores Linux tanto enterprise como armados/manuales, trabajando con servicios, redes y despliegues reales.
+Tengo experiencia administrando y montando servidores Linux tanto enterprise como armados/manuales, trabajando con servicios, redes y despliegues.
 
 <span>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">

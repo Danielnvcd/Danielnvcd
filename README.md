@@ -23,11 +23,10 @@ También trabajo con:
 - seguridad y autenticación
 - despliegue y arquitectura backend
 
-Tengo experiencia administrando y montando servidores Linux tanto enterprise como armados/manuales, trabajando con servicios, redes y despliegues.
+Experiencia administrando y montando servidores Linux tanto enterprise como armados/manuales, trabajando con servicios, redes y despliegues.
 
 <span>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
@@ -44,7 +43,5 @@ Experiencia con:
 - configuración de dominios, SSL y Cloudflare
 - servidores caseros/self-hosted
 - automatización y monitoreo básico
-
-Actualmente enfocado en arquitectura backend, automatización, infraestructura y sistemas conectados entre software y hardware.
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">

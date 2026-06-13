@@ -1,4 +1,3 @@
-<h2 align="center">Sobre mí</h2>
 
 <p align="center">
 Desarrollador enfocado en backend, automatización e integración de hardware/software.
